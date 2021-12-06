@@ -1,2 +1,5 @@
 # Virtual enviroment
 insiders_env/
+
+# Local settings
+notebooks/.ipynb_checkpoints/
